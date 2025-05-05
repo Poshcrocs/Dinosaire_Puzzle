@@ -1,28 +1,3 @@
-/* universal settings*/
-* {
-    margin: 0%;
-    padding: 0%;
-    font-family: 'Bubblegum Sans', cursive;
-    font-size: 1em;
-}
-
-/* recurring settings */
-.page {
-    background-color: black;
-}
-.page h1 {
-    color: bisque;
-}
-.page p {
-    color: whitesmoke;
-}
-
-
-/* Specific section settings */
-
-
-
-/* NumberPad */
 /* (A) WRAPPER */
 #numWrap, #numWrap * { box-sizing: border-box; }
 #numWrap {
